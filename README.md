@@ -25,7 +25,7 @@ yarn start
 Woot! 🚀 You can visit `localhost:3000` to play with the application. Updates during development are hot reloaded via webpack.
 
 # Deploying
-The [website](https://subscanner.onrender.com/) is configured in `Render` to deploy the `main` branch.
+The [website](https://subscanner.onrender.com/) is configured in `Render` to deploy automatically from Github when the `main` branch is updated.
 
 If you want to locally build the app for production usage, you can run:
 ```
