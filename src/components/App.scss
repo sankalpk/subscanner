@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:slnt,wght@-10,300..700;0,300..700&family=Roboto+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+@import '@elastic/eui/src/themes/eui/eui_colors_light.scss';
+@import '@elastic/eui/src/themes/eui/eui_globals.scss';
+
+.form-panel-layout {
+  background-color: $euiColorEmptyShade;
+  padding: 20px 50px;
+  border-bottom: solid 1px $euiColorLightShade;
+}
+
+.table-panel {
+  margin: 5px 50px 20px 50px;
+}
+
+.filters{
+  margin-top: 15px;
+  margin-right: 50px;
+  margin-left: 50px
+}
+
+.filterContainer{
+  width: 300px;
+}
